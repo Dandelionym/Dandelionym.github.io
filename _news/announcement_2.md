@@ -4,7 +4,7 @@ date: 2022-7-12
 inline: true
 ---
 
-Joined Artificial Intelligence and Medical Imaging Laboratory, Westlake University.
+Joined **Artificial Intelligence and Medical Imaging Laboratory**, Westlake University.
 
 
 [//]: # (***)

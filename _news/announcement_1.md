@@ -1,8 +1,7 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2022-11-11
-inline: false
+date: 2022-11-01
+inline: true
 ---
 
-Joined Nanosynthesis Laboratory, Westlake University.
+Joined **Nanosynthesis Laboratory**, Westlake University.
