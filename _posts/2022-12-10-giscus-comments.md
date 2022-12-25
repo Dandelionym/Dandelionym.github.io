@@ -3,7 +3,7 @@ layout: post
 title: My Research History
 date: 2022-12-25 11:59:00-0400
 description: Some projects and comments.
-categories: graph-learning artificial-intelligence
+categories: Review
 giscus_comments: true
 ---
 
