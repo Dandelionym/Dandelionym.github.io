@@ -40,18 +40,24 @@ layout: default
             {{ content }}
           </div>
 
+
           {% if page.news -%}
           <!-- News -->
           {%- include news.html %}
           {%- endif %}
+
+
           {% if page.selected_papers -%}
             <!-- Selected papers -->
             {%- include selected_papers.html %}
           {%- endif %}
+
+
+
           {%- if page.social %}
           <!-- Social -->
           <div class="social">
-            <div class="contact-icons">
+            <div class="contact-icons" style="font-size: 1.2rem">
             {% include social.html %}
             </div>
 
@@ -61,6 +67,6 @@ layout: default
             
           </div>
           {%- endif %}
-        </article>
 
+        </article>
 </div>

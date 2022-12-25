@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Records
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Excepting scientific research, life is also valuable for us.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Life&thinking, ]
 horizontal: false
 ---
 
