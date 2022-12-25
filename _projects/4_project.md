@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hiking with Labmates
+title: ⛰️
 description: 2022.11.20
 img: assets/Life&thinking/1120hiking/hongyu_hiking.png
 importance: 3

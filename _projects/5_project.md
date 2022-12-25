@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hiking with Labmates
+title: ⛰️
 description: 2022.12.18
 img: assets/Life&thinking/1218hiking/lintao_hiking.png
 importance: 3
