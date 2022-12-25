@@ -13,9 +13,9 @@ profile:
     <p>Smile EVERYDAY.</p>
     <p>I'm Mellen.</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: true                # includes a list of news items
+selected_papers: true     # includes a list of papers marked as "selected={true}"
+social: true              # includes social icons at the bottom of the page
 ---
 
 [//]: # (过去四年，我在云南大学主修软件工程专业，获得了工学学士学位。我也先后在云南大学知识图谱实验室、云南省软件工程重点实验室进行了为期两年的科学研究，在那段时间我为实验室设计了分布式云服务系统`CentPrime`，之后为云南大学生命中心的`GuoLAB`开发了一个动态异步启动的膀胱癌辅助诊疗系统，并协助达成了30万投资。在读本科期间，我获得了多个国际数学建模竞赛奖项和多个优秀文学作品奖，并被誉为优秀诗人，我出版了诗集《纪念雪》和散文集《雨季》，并受邀担任火种文学编辑委员会编辑。)
