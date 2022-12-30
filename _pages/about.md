@@ -26,11 +26,9 @@ social: true              # includes social icons at the bottom of the page
 [//]: # ()
 [//]: # (现在，我在西湖大学理学院攻读博士学位，师从陈虹宇教授，我的主要研究内容为纳米科学和结构生物学中的人工智能，主要聚焦于结构化数据的数据挖掘和深度学习方法应用，此外，我也关注图神经网络泛化性科研问题。)
 
-For the past four years, I majored in software engineering at Yunnan University and obtained a bachelor's degree in engineering. I have also conducted two-year scientific research in the Knowledge Graph Laboratory of Yunnan University and the Key Laboratory of Software Engineering in Yunnan Province. I published a collection of poems *Remembrance of Snow* and a collection of essays *Rainy Season*, and was invited to serve as a tinder Editor of the Board of Literary Editors.
+For the past four years, I majored in software engineering at Yunnan University and obtained a B.S. degree in engineering. Followed by Prof. [C. Xie](http://www.sei.ynu.edu.cn/info/1023/1166.htm), I did one-year research about Industrial Network Data Mining and Graph Learning. Followed by Researcher, Doctoral Supervisor [C. Guo](http://www.ynusky.ynu.edu.cn/yunlifesci/yjz/guochunming.htm), I did two-year research about Bladder Cancer Imaging Analysis, later I followed Prof. [Lin Yang](https://www.westlake.edu.cn/faculty/lin-yang.html) with a similar research topic. Now, I am studying for a Ph.D. in the School of Science, Westlake University, following Fellow of the Royal Society of Chemistry, Prof. [H. Chen](https://www.westlake.edu.cn/faculty/hongyu-chen.html). I'm also in the [LINs Lab](https://lins-lab.github.io/) as a joint student, following Prof. [Tao Lin](https://www.westlake.edu.cn/faculty/tao-lin.html).
 
-In the past two years, my research interests are mainly in computer vision and graph learning.
-
-Now, I am studying for a Ph.D in the School of Science of Westlake University under the tutelage of Professor Hongyu Chen. My main research content is artificial intelligence in nanoscience and structural biology, focusing on data mining of structured data and the application of deep learning methods. In addition , I also pay attention to the generalization research problem of graph neural network.
+My main research interest is **AI for Nanoscience and Biology**, focusing on modeling structured data and applications of deep learning methods.
 
 [//]: # (# Write your biography here. Tell the world about yourself. Link to your favorite [subreddit]&#40;http://reddit.com&#41;. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)
 
