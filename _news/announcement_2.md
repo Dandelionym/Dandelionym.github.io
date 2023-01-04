@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2022-7-12
+date: 2022-10-03
 inline: true
 ---
 
-Joined **Artificial Intelligence and Medical Imaging Laboratory**, Westlake University.
+Our **[preprints](https://arxiv.org/abs/2210.00704)** about spatiotemporal graph released in arXiv.
 
 
 [//]: # (***)

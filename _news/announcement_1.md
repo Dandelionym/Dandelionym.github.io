@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-11-01
+date: 2023-01-01
 inline: true
 ---
 
-Joined **Nanosynthesis Laboratory**, Westlake University.
+**[MELLEN-AI Research Center Inc.](https://github.com/MELLEN-AI)** Founded. 🎈
