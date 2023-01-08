@@ -9,16 +9,26 @@ giscus_comments: true
 
 
 ## Graph Neural Network (GNN)
-Here are the details about GNN:
-* [An introduction about GNN in wikipedia.](https://en.wikipedia.org/wiki/Graph_neural_network)
-* [Applications of GNN are introduced here.](https://neptune.ai/blog/graph-neural-network-and-some-of-gnn-applications)
-* [*Kipf et al. 2017*  proposed the first GNN architecture.](https://arxiv.org/abs/1609.02907)
+**Quick look:**
+* [Wikipedia: GNN.](https://en.wikipedia.org/wiki/Graph_neural_network)
+* [The basic graph netwrok architecture.](https://arxiv.org/abs/1609.02907)
+* [An introduction to the applications of GNN.](https://neptune.ai/blog/graph-neural-network-and-some-of-gnn-applications)
 
-My work mainly focus on:
-* Develop faster and more capable GNN.
-* Graph Learning for generalization.
+
+**My work mainly focus on:**
+* Develop efficient GNNs.
+* Spatiotemporal graph prediction.
+* Graph Learning for stable generalization.
 * Graph out-of-distribution.
-* GNNs' applications on biology and chemistry.
+* GNN's applications on biology and chemistry.
 * Dynamic GNN on different conditions.
-* Evolution of the GNN.
+* Evolutions of the GNN.
 * Graph Transformer.
+
+
+## Computer Vision
+**Main aspects:**
+* Object Detection and Segmentation
+* Single view 3D Reconstruction
+* Generative models, e.g. GANs and Diffusions
+* Neural Radiance Fields
