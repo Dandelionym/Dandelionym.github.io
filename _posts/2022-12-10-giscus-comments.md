@@ -2,7 +2,7 @@
 layout: post
 title: Research Interest
 date: 2022-12-25 11:59:00-0400
-description: C.S. & Bio. & Chem.
+description: I mainly focus on the Graph data mining and computer vision with biological domain knowledge.
 categories: Review
 giscus_comments: true
 ---
