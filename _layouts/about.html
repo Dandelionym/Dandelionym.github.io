@@ -4,7 +4,6 @@ layout: default
 
 <!-- about.html -->
       <div class="post">
-      <img src="https://komarev.com/ghpvc/?username=dandelionym&label=Profile%20views&color=0e75b6&style=flat" alt="dandelionym" />
         <header class="post-header">
           <h1 class="post-title">
            {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
@@ -32,6 +31,9 @@ layout: default
             {%- if page.profile.address %}
             <div class="address">
               {{ page.profile.address }}
+            </div>
+            <div>
+            	<img src="https://komarev.com/ghpvc/?username=dandelionym&label=Profile%20views&color=0e75b6&style=flat" alt="dandelionym" />
             </div>
             {%- endif %}
           </div>
@@ -69,7 +71,7 @@ layout: default
           </div>
 
           <div>
-            <div>
+            <div style="display: flex; justify-content: space-around;">
               <img src="//www.clustrmaps.com/map_v2.png?d=Q1gl_dfWYv48xsRDnrEt3CTO99n5IXytGxOAHtPh8VY&cl=ffffff"/>
             </div>
           </div>
