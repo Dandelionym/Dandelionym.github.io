@@ -13,7 +13,7 @@ layout: default
 
         <article>
           {% if page.profile -%}
-          <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
+          <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}" style="text-align: center">
             {%- if page.profile.image %}
               {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
 
@@ -32,8 +32,8 @@ layout: default
             <div class="address">
               {{ page.profile.address }}
             </div>
-            <div>
-            	<img src="https://komarev.com/ghpvc/?username=dandelionym&label=Profile%20views&color=0e75b6&style=flat" alt="dandelionym" />
+            <div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
+            	<img width="100px" src="https://komarev.com/ghpvc/?username=dandelionym&label=Profile%20views&color=0e75b6&style=flat" alt="dandelionym" />
             </div>
             {%- endif %}
           </div>
