@@ -6,7 +6,7 @@ subtitle: <a href='https://westlake.edu.cn/'><b>Westlake University</b></a>. No.
 
 profile:
   align: right
-  image: avatar_github.jpeg
+  image: avatar.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Keep alive. 🌲</p>
