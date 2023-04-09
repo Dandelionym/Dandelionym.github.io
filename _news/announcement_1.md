@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-01-01
+date: 2022-07-12 07:59:00-0400
 inline: true
 ---
 
-**[MELLEN-AI Research Center Inc.](https://mellen-ai.github.io)** Founded. 🎈
+Joined **Westlake University**. 🎉

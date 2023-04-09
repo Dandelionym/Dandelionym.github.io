@@ -37,4 +37,6 @@ He earned a B.S. degree in software engineering from YNU in China, where he purs
 
 Currently, he is pursuing a PhD in the School of Science at Westlake University (WIAS), under the mentorship of **[Fellow of the Royal Society of Chemistry and Doctoral Supervisor Professor Hongyu Chen](https://en.westlake.edu.cn/faculty/hongyu-chen.html)**. As a joint student in the [LINs Lab](https://lins-lab.github.io), he is also working with [Doctoral Supervisor Professor Tao Lin](https://en.westlake.edu.cn/faculty/tao-lin.html) to further his research in his field of interest.
 
-His main research interest is **<u>Synthetic Data Engineering</u>**, focusing on modeling structured data and applications of deep learning methods. He looks forward to long-term cooperation and extensive exchanges on **<u>AI + Chemistry/Biology</u>**.
+His main research interest is **<u>Data efficient learning</u>**, focusing on modeling structured data and applications of deep learning methods. He looks forward to long-term cooperation and extensive exchanges on **<u>AI + Chemistry/Biology</u>**.
+
+<br/>

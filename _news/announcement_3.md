@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-07-12 07:59:00-0400
+date: 2022-11-01
 inline: true
 ---
 
-Joined **Westlake University**. 🎉
+Joined **[Nanosynthesis Lab](http://www.nanosynthesis.cn/)** and **[LINs Lab](https://lins-lab.github.io/)**.
