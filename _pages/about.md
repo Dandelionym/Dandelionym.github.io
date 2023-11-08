@@ -37,7 +37,7 @@ social: true              # includes social icons at the bottom of the page
 
 ### About
 
-In 2019, he authored a collection of poems titled *Season of the Rain*, and in 2020, he followed up with a collection of prose titled *Remember the Snow*. His literary prowess was recognized when he won first prize in the National Youth Writing Competition in 2020. From 2018 to 2021, he held the position of **[Executive Vice Chairman at Tinder Literature](http://zghaowx.com/)**, where he oversaw the publication of several of his literary works both online and in print.
+In 2019, he authored a collection of poems titled *Season of the Rain*, and in 2020, he followed up with a collection of prose titled *Remember the Snow*. His literary prowess was recognized when he won first prize in the National Youth Writing Competition in 2020. From 2018 to 2021, he held the position of **Executive Vice Chairman at Tinder Literature**, where he oversaw the publication of several of his literary works both online and in print.
 
 In addition to his achievements in the field of literature, he is also a highly skilled **Software Engineer**. In 2021, he developed a web-based system for online cooperation aimed at promoting knowledge sharing in society. He also designed the Intelligent Assisted Diagnosis System for Bladder Cancer Imaging, a widely-used remote diagnosis tool, as well as four other widely-utilized web systems.
 
