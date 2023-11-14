@@ -4,4 +4,4 @@ date: 2023-09-29
 inline: true
 ---
 
-One paper was accepted to Advanced Materials.
+One [paper](https://pubmed.ncbi.nlm.nih.gov/37774750/) was accepted to *Advanced Materials* (IF=16.639). 
