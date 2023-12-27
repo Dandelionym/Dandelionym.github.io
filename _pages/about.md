@@ -16,7 +16,7 @@ profile:
 
     <p>Ph.D. Student</p>
 
-    <p>Computer Science</p>
+    <p>Artificial Intelligence</p>
 
 news: true                # includes a list of news items
 selected_papers: true     # includes a list of papers marked as "selected={true}"
@@ -45,6 +45,6 @@ In addition to his achievements in the field of literature, he is also a highly 
 
 Mellen Y.Pu is a Ph.D. student in the School of Engineering at Westlake University, under the mentorship of **Fellow of the Royal Society of Chemistry, Prof. [Hongyu Chen](https://en.westlake.edu.cn/faculty/hongyu-chen.html)** and **Prof. [Tao Lin](https://en.westlake.edu.cn/faculty/tao-lin.html)**. 
 
-His main research interest is **<u>Data Efficient Learning in Science</u>**, focusing on modeling structured data and applications of deep learning methods. He looks forward to long-term cooperation and extensive exchanges on **<u>AI + Material Science / Biology</u>**.
+His main research interest is **<u>Data Efficient Learning in Science</u>**, focusing on modeling structured data and applications of deep learning methods. He looks forward to long-term cooperation and extensive exchanges on **<u>AI for Material Science</u>**.
 
 <br/>

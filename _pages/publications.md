@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: Artificial Intelligence, Material Science.
-years: [2021, 2022, 2023, 2024, 2025]
+years: [2022, 2023]
 nav: true
 nav_order: 1
 ---
