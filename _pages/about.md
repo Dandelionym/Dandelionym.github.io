@@ -8,7 +8,7 @@ profile:
 
   align: right
 
-  image: avatar.png
+  image: avatar-mellen.jpg
 
   image_circular: true # crops the image to make it circular
 
@@ -42,8 +42,8 @@ In 2019, he authored a collection of poems titled *Season of the Rain*, and in 2
 In addition to his achievements in the field of literature, he is also a highly skilled **Software Engineer**. In 2021, he developed a web-based system for online cooperation aimed at promoting knowledge sharing in society. He also designed the Intelligent Assisted Diagnosis System for Bladder Cancer Imaging, a widely-used remote diagnosis tool, as well as four other widely-utilized web systems.
 
 
-Mellen Y.Pu is a Ph.D. candidate in the School of Engineering at Westlake University, under the mentorship of **Fellow of the Royal Society of Chemistry, Prof. [Hongyu Chen](https://en.westlake.edu.cn/faculty/hongyu-chen.html)** and **Prof. [Tao Lin](https://en.westlake.edu.cn/faculty/tao-lin.html)**. 
+Mellen Y.Pu is a Ph.D. candidate in the School of Engineering at Westlake University, under the mentorship of **Prof. [Tao Lin](https://en.westlake.edu.cn/faculty/tao-lin.html)** and **Fellow of the Royal Society of Chemistry, Prof. [Hongyu Chen](https://en.westlake.edu.cn/faculty/hongyu-chen.html)**. 
 
-His main research interest is **<u>Data Efficient Learning in Science</u>**, focusing on modeling structured data and applications of deep learning methods. He looks forward to long-term cooperation and extensive exchanges on **<u>AI for Science</u>**.
+He is currently focusing on **Agent Planning in Science**. He looks forward to long-term cooperation and extensive exchanges on **<u>AI for Science</u>**.
 
 <br/>

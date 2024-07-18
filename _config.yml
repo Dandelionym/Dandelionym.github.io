@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Mellen Y.Pu # the website title (if blank, full name will be used instead)
+title: Mellen Y. Pu # the website title (if blank, full name will be used instead)
 first_name: Mellen
 middle_name: Y.
 last_name: Pu
@@ -77,8 +77,8 @@ scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
-medium_username: # your Medium username
-quora_username: Mellen-Y-Pu  # your Quora username
+medium_username: yingmingpu
+quora_username: # your quora name
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
@@ -145,9 +145,9 @@ disqus_shortname: Dandelionym # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
-#external_sources:
-#  - name: medium.com
-#    rss_url: https://medium.com/@al-folio/feed
+external_sources:
+  - name: medium.com
+    rss_url: https://medium.com/@yingmingpu/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -241,7 +241,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['Mathematics', 'ComputerScience', 'Bioinformatics', 'Chemistry', 'Review'] # this tags will be dispalyed on the front page of your blog
+display_tags: [] # this tags will be dispalyed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
