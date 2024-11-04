@@ -1,7 +1,0 @@
----
-layout: post
-date: 2024-11-04
-inline: true
----
-
-Our recent [work](https://openreview.net/pdf?id=I6jYRbaai8) has been accepted to the NeurIPS AI4Mat workshop!
