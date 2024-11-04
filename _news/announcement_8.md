@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-07-17
+date: 2024-11-04
 inline: true
 ---
 
-One blog in **[Medium]((https://medium.com/@yingmingpu/are-physicochemical-mechanisms-important-to-agent-for-science-98f9812bc04d))** is published. 
+Our recent [work](https://openreview.net/pdf?id=I6jYRbaai8) has been accepted to the NeurIPS AI4Mat workshop!
